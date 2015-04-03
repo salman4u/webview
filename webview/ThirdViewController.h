@@ -7,11 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "SVWebViewController1.h"
-@interface SecondViewController : UIViewController<UIWebViewDelegate>{
+
+@interface ThirdViewController : UIViewController<UIWebViewDelegate,UIAlertViewDelegate>{
     UILabel *lbl;
     UIWebView *webView;
-    SVWebViewController1 *webViewController;
 }
 
 @end

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9BD51A5C1A5445DA00DE79CA"
-               BuildableName = "webview.app"
-               BlueprintName = "webview"
-               ReferencedContainer = "container:webview.xcodeproj">
+               BuildableName = "MKL import.app"
+               BlueprintName = "MKL import"
+               ReferencedContainer = "container:MKL import.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9BD51A801A5445DA00DE79CA"
-               BuildableName = "webviewTests.xctest"
-               BlueprintName = "webviewTests"
-               ReferencedContainer = "container:webview.xcodeproj">
+               BuildableName = "MKL importTests.xctest"
+               BlueprintName = "MKL importTests"
+               ReferencedContainer = "container:MKL import.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9BD51A5C1A5445DA00DE79CA"
-            BuildableName = "webview.app"
-            BlueprintName = "webview"
-            ReferencedContainer = "container:webview.xcodeproj">
+            BuildableName = "MKL import.app"
+            BlueprintName = "MKL import"
+            ReferencedContainer = "container:MKL import.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9BD51A5C1A5445DA00DE79CA"
-            BuildableName = "webview.app"
-            BlueprintName = "webview"
-            ReferencedContainer = "container:webview.xcodeproj">
+            BuildableName = "MKL import.app"
+            BlueprintName = "MKL import"
+            ReferencedContainer = "container:MKL import.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9BD51A5C1A5445DA00DE79CA"
-            BuildableName = "webview.app"
-            BlueprintName = "webview"
-            ReferencedContainer = "container:webview.xcodeproj">
+            BuildableName = "MKL import.app"
+            BlueprintName = "MKL import"
+            ReferencedContainer = "container:MKL import.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
